@@ -19,8 +19,7 @@ This Python script implements a simple command-line Tic-Tac-Toe game. The game a
 ## Getting Started
 1. Clone this repository.
 2. Create virtual environment.
-3. Install [requirements](requirements.txt).
-4. Run [script](main.py) in Python. 
+3. Run [script](main.py) in Python. 
 
 ## Usage
 1. The game will start by displaying the Tic-Tac-Toe board and prompting the first player to make a move.
